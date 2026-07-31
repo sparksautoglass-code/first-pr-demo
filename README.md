@@ -9,4 +9,4 @@ create a branch, make a small change, and merge it in.
 
 ## Usage
 
-Clone the repo and take a look around — theres nothing to install, its just documentation.
+Clone the repo and take a look around — there's nothing to install, it's just documentation.
